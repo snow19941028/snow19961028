@@ -1,4 +1,4 @@
-<h1>Good Luck! BRIAN D. THOMAS</h1>
+<h1>Good Luck!</h1>
 
 
 <p align="center">
